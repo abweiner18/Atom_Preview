@@ -1,5 +1,5 @@
 *************************************************************************************************
-Basic Syntax Comparison: HTML, Markdown, and RST
+Basic Syntax Comparison
 *************************************************************************************************
 There are different "flavors" (variations) of Markdown. The syntax used here is for GitHub Flavored Markdown (GFM).
 
