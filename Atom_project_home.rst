@@ -22,7 +22,7 @@ I hope this guide gives you the tools to quickly start writing and previewing yo
 How To...
 --------------
 
-#. `Install Atom <https://github.com/abweiner18/Atom_Preview/blob/master/Install_Atom.rst>`_
-#. `Install Atom Packages to Enable Syntax Highlighting and the Preview Pane <https://github.com/abweiner18/Atom_Preview/blob/master/Install_Packages.rst>`_
-#. `Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files <https://github.com/abweiner18/Atom_Preview/blob/master/Enable_Syntax_Preview.rst>`_
-#. `Basic Syntax Comparison: HTML, Markdown, and RST <https://github.com/abweiner18/Atom_Preview/blob/master/Syntax_Comparison.rst>`_
+#. `Install Atom <https://atom-preview.readthedocs.io/en/latest/Install_Atom.html>`_
+#. `Install Atom Packages to Enable Syntax Highlighting and the Preview Pane <https://atom-preview.readthedocs.io/en/latest/Install_Packages.html>`_
+#. `Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files <https://atom-preview.readthedocs.io/en/latest/Enable_Syntax_Preview.html>`_
+#. `Basic Syntax Comparison: HTML, Markdown, and RST <https://atom-preview.readthedocs.io/en/latest/Syntax_Comparison.html>`_
