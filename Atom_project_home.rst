@@ -23,6 +23,6 @@ How To...
 --------------
 
 #. `Install Atom <Install_Atom>`_
-#. Install Atom Packages to Enable Syntax Highlighting and the Preview Pane
-#. Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files
-#. Basic Syntax Comparison: HTML, Markdown, and RST
+#. `Install Atom Packages to Enable Syntax Highlighting and the Preview Pane <Install_Packages>`_
+#. `Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files <Enable_Syntax_Preview>`_
+#. `Basic Syntax Comparison: HTML, Markdown, and RST <Syntax_Comparison>`_
