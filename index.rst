@@ -10,7 +10,7 @@ Welcome to Atom_Preview's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Atom_Project_home
+   Atom_project_home
    Install_Atom
    Install_Packages
    Enable_Syntax_Preview
