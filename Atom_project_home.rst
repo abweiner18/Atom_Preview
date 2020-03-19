@@ -22,7 +22,7 @@ I hope this guide gives you the tools to quickly start writing and previewing yo
 How To...
 --------------
 
-#. Install Atom
+#. `Install Atom <Install_Atom>`_
 #. Install Atom Packages to Enable Syntax Highlighting and the Preview Pane
 #. Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files
 #. Basic Syntax Comparison: HTML, Markdown, and RST
