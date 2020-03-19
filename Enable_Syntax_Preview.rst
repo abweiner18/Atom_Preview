@@ -1,5 +1,5 @@
 *************************************************************************************************
-How to Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files
+Enable Highlight and Preview
 *************************************************************************************************
 
 After installing the appropriate packages, it's easy to enable both syntax highlighting and the preview pane.
