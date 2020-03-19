@@ -36,9 +36,9 @@ When you enable the preview pane, you get a split screen: your code screen appea
 
 .. note::
 
-	#. You must enable the preview pane every time you open your file.
-  #. The code you're writing on the left side of the screen does **not** automatically wrap. To enable text wrapping: From the top menu, click **View < Toggle Soft Wrap**.
-  #. You can use the hotkey and drop-down menu commands interchangeably. In other words, you can use one method to open the preview pane and the other method to close it.
+#. You must enable the preview pane every time you open your file.
+#. The code you're writing on the left side of the screen does **not** automatically wrap. To enable text wrapping: From the top menu, click **View < Toggle Soft Wrap**.
+#. You can use the hotkey and drop-down menu commands interchangeably. In other words, you can use one method to open the preview pane and the other method to close it.
 
 .. list-table:: Preview Pane Toggle Commands
   :widths: 20 50 30
