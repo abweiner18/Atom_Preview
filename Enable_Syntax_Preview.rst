@@ -1,5 +1,5 @@
 *************************************************************************************************
-Enable Highlight and Preview
+Enable Highlight & Preview
 *************************************************************************************************
 
 After installing the appropriate packages, it's easy to enable both syntax highlighting and the preview pane.
