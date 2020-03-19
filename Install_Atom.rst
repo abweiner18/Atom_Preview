@@ -4,7 +4,7 @@ How to Install Atom
 
 #. Go to `https://atom.io <https://atom.io>`_. There you will see a download button with your specific operating system (OS) and compatible versions listed above it. For example, I'm running MacOS version 10.11.6, so this is what I see when I go to Atom:
 
-.. image:: ../Atom_download_image.png
+.. image:: Atom_download_image.png
   :width: 105px
   :align: center
   :height: 146px
