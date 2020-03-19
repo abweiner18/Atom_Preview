@@ -2,7 +2,7 @@
 How to Install Atom Packages to Enable Highlighted Syntax and Previewing
 *************************************************************************************
 
-There a lot of ways to customize Atom. Several customized "core packages" come pre-loaded with your Atom install. Other packages you need to install yourself.
+There are a lot of ways to customize Atom. Several customized "core packages" come pre-loaded with your Atom install. Other packages you need to install yourself.
 
 HTML
 ----------
