@@ -23,6 +23,6 @@ How To...
 --------------
 
 #. `Install Atom <https://github.com/abweiner18/Atom_Preview/blob/master/Install_Atom.rst>`_
-#. `Install Atom Packages to Enable Syntax Highlighting and the Preview Pane <Install_Packages>`_
-#. `Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files <Enable_Syntax_Preview>`_
-#. `Basic Syntax Comparison: HTML, Markdown, and RST <Syntax_Comparison>`_
+#. `Install Atom Packages to Enable Syntax Highlighting and the Preview Pane <https://github.com/abweiner18/Atom_Preview/blob/master/Install_Packages>`_
+#. `Enable Syntax Highlighting and the Preview Pane for HTML, Markdown, and RST Files <https://github.com/abweiner18/Atom_Preview/blob/master/Enable_Syntax_Preview>`_
+#. `Basic Syntax Comparison: HTML, Markdown, and RST <https://github.com/abweiner18/Atom_Preview/blob/master/Syntax_Comparison>`_
