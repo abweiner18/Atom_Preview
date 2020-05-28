@@ -11,7 +11,7 @@ Welcome to Atom Quick Start's documentation!
    :caption: Contents:
 
    Atom_project_home
-   Welcome
+   welcome
    Install_Atom
    Install_Packages
    Enable_Syntax_Preview
