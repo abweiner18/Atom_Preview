@@ -1,0 +1,197 @@
+
+
+<!doctype html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>Basic Syntax Comparison &#8212; Atom Quick Set Up: HTML, Markdown, and RST  documentation</title>
+    <link rel="stylesheet" href="_static/bizstyle.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="_static/bizstyle.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Enable Highlight &amp; Preview" href="Enable_Syntax_Preview.html" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!--[if lt IE 9]>
+    <script src="_static/css3-mediaqueries.js"></script>
+    <![endif]-->
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="Enable_Syntax_Preview.html" title="Enable Highlight &amp; Preview"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Atom Quick Set Up: HTML, Markdown, and RST  documentation</a> &#187;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Basic Syntax Comparison</a><ul>
+<li><a class="reference internal" href="#online-cheatsheets">Online Cheatsheets</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="Enable_Syntax_Preview.html"
+                        title="previous chapter">Enable Highlight &amp; Preview</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/Syntax_Comparison.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="basic-syntax-comparison">
+<h1>Basic Syntax Comparison<a class="headerlink" href="#basic-syntax-comparison" title="Permalink to this headline">¶</a></h1>
+<p>There are different “flavors” (variations) of Markdown. The syntax used here is for GitHub Flavored Markdown (GFM).</p>
+<table class="colwidths-given docutils align-default" id="id1">
+<caption><span class="caption-text"><strong>Basic Syntax Comparison</strong></span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Syntax</p></th>
+<th class="head"><p>HTML</p></th>
+<th class="head"><p>Git Flavored Markdown</p></th>
+<th class="head"><p>RST</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Headings</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">&lt;H1&gt;YourHeading&lt;/H1&gt;</span></code> for top level heading. <code class="docutils literal notranslate"><span class="pre">&lt;H2&gt;YourHeading&lt;/H2&gt;</span></code> for 2nd level heading, and so on through H6.</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">#</span></code> before your heading. Add more hashtags to designate sub-level headings. You can use up to 6 hashtags, <code class="docutils literal notranslate"><span class="pre">######</span></code>, for additional sub-level headings.</p></td>
+<td><p>Type your heading. On the line below your heading, type a line of either <code class="docutils literal notranslate"><span class="pre">*</span></code>, <code class="docutils literal notranslate"><span class="pre">=</span></code>, or <code class="docutils literal notranslate"><span class="pre">-</span></code> repeating. The special character line must extend beyond the last letter of your heading. Use a different special character to denote a different level of heading.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Bold</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">&lt;strong&gt;bold&lt;/strong&gt;</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">**bold**</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">**bold**</span></code></p></td>
+</tr>
+<tr class="row-even"><td><p>Italics</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">&lt;em&gt;italics&lt;/em&gt;</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*italics*</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">*italics*</span></code></p></td>
+</tr>
+<tr class="row-odd"><td><p>Ordered List</p></td>
+<td><ul class="simple">
+<li><p>Each ordered list starts with <code class="docutils literal notranslate"><span class="pre">&lt;ol&gt;</span></code> and ends with <code class="docutils literal notranslate"><span class="pre">&lt;/ol&gt;</span></code>.</p></li>
+<li><p>Each list item: <code class="docutils literal notranslate"><span class="pre">&lt;li&gt;List</span> <span class="pre">Item&lt;/li&gt;</span></code>.</p></li>
+<li><p>To sub-bullet: Insert a new ordered or unordered list, starting with <code class="docutils literal notranslate"><span class="pre">&lt;ol&gt;</span></code> or <code class="docutils literal notranslate"><span class="pre">&lt;ul&gt;</span></code>, under the appropriate list item.</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Begin each item with <code class="docutils literal notranslate"><span class="pre">1.</span></code>.</p></li>
+<li><p>To sub-bullet, insert the sub-bullet directly below the first character of text of the parent bullet.</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Begin each item with <code class="docutils literal notranslate"><span class="pre">#.</span></code>.</p></li>
+<li><p>To sub-bullet: Start with your cursor at the beginning of the sub-bullet line. Space over and insert sub-bullet directly below the first character of text of the parent bullet.</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><p>Unordered List</p></td>
+<td><ul class="simple">
+<li><p>Each unordered list starts with <code class="docutils literal notranslate"><span class="pre">&lt;ul&gt;</span></code> and ends with <code class="docutils literal notranslate"><span class="pre">&lt;/ul&gt;</span></code>.</p></li>
+<li><p>Each list item: <code class="docutils literal notranslate"><span class="pre">&lt;li&gt;List</span> <span class="pre">Item&lt;/li&gt;</span></code>.</p></li>
+<li><p>To sub-bullet: Insert a new ordered or unordered list, starting with <code class="docutils literal notranslate"><span class="pre">&lt;ol&gt;</span></code> or <code class="docutils literal notranslate"><span class="pre">&lt;ul&gt;</span></code>, under the appropriate list item.</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Begin each item with <code class="docutils literal notranslate"><span class="pre">-</span></code> or <code class="docutils literal notranslate"><span class="pre">*</span></code>.</p></li>
+<li><p>To sub-bullet, insert sub-bullet directly below the first character of text of the parent bullet.</p></li>
+</ul>
+</td>
+<td><ul class="simple">
+<li><p>Begin each item with <code class="docutils literal notranslate"><span class="pre">-</span></code>, <code class="docutils literal notranslate"><span class="pre">+</span></code>, or <code class="docutils literal notranslate"><span class="pre">*</span></code>.</p></li>
+<li><p>To sub-bullet: Start with your cursor at the beginning of the sub-bullet line. Space over and insert sub-bullet directly below the first character of text of the parent bullet.</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><p>Image</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">&lt;image</span> <span class="pre">src=&quot;source</span> <span class="pre">path&quot;</span> <span class="pre">alt</span> <span class="pre">text=</span> <span class="pre">&quot;alt</span> <span class="pre">text&quot;&gt;</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">![alt</span> <span class="pre">text](path)</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">..</span> <span class="pre">image::</span> <span class="pre">path</span></code></p></td>
+</tr>
+<tr class="row-even"><td><p>Link</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">&lt;a</span> <span class="pre">href=&quot;url&quot;&gt;link</span> <span class="pre">text&lt;/a&gt;</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">[In-line</span> <span class="pre">text</span> <span class="pre">name]</span> <span class="pre">(url)</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">`link</span> <span class="pre">name</span> <span class="pre">&lt;url&gt;`_</span></code></p></td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="online-cheatsheets">
+<h2>Online Cheatsheets<a class="headerlink" href="#online-cheatsheets" title="Permalink to this headline">¶</a></h2>
+<p>There are a lot of online cheatsheets available. Below are links to a few. Do your own searches to find the sites/cheatsheets that work best for you.</p>
+<p>Markdown Cheatsheet:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></p></li>
+<li><p><a class="reference external" href="https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax">https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax</a></p></li>
+</ul>
+<p>RST cheatsheets:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html">https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html</a></p></li>
+<li><p><a class="reference external" href="https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst">https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst</a></p></li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="Enable_Syntax_Preview.html" title="Enable Highlight &amp; Preview"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Atom Quick Set Up: HTML, Markdown, and RST  documentation</a> &#187;</li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2020, Anita Weiner.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 2.4.4.
+    </div>
+  </body>
+</html>
