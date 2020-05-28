@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Atom_Preview'
+project = 'Atom Quick Set Up: HTML, Markdown, and RST'
 copyright = '2020, Anita Weiner'
 author = 'Anita Weiner'
 
