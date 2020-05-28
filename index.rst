@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Atom_Preview's documentation!
+Welcome to Atom Quick Start's documentation!
 ========================================
 
 .. toctree::
@@ -11,6 +11,7 @@ Welcome to Atom_Preview's documentation!
    :caption: Contents:
 
    Atom_project_home
+   Welcome
    Install_Atom
    Install_Packages
    Enable_Syntax_Preview
