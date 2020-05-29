@@ -1,7 +1,10 @@
-*************************************************************************************************
 Basic Syntax Comparison
-*************************************************************************************************
-There are different "flavors" (variations) of Markdown. The syntax used here is for GitHub Flavored Markdown (GFM).
+==========================
+Use this table as a quick reference for HTML, Markdown, and RST.
+
+.. note::
+
+	There are different "flavors" (variations) of Markdown. The syntax used here is for GitHub Flavored Markdown (GFM).
 
 .. list-table:: **Basic Syntax Comparison**
   :widths: 25 25 25 25
@@ -47,18 +50,3 @@ There are different "flavors" (variations) of Markdown. The syntax used here is 
     - ``<a href="url">link text</a>``
     - ``[In-line text name] (url)``
     - ```link name <url>`_``
-
-Online Cheatsheets
----------------------
-
-There are a lot of online cheatsheets available. Below are links to a few. Do your own searches to find the sites/cheatsheets that work best for you.
-
-Markdown Cheatsheet:
-
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
-
-RST cheatsheets:
-
-- https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
-- https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst

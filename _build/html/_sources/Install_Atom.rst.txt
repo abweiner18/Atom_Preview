@@ -1,19 +1,21 @@
-*********************************************************************
 Install Atom
-*********************************************************************
+================
+Step-by-step instructions to install Atom on your computer.
 
-#. Go to `https://atom.io <https://atom.io>`_. There you will see a download button with your specific operating system (OS) and compatible versions listed above it. For example, I'm running MacOS version 10.11.6, so this is what I see when I go to Atom:
+#. Go to `https://atom.io <https://atom.io>`_. Above **Download** you should see listed your computer's specific operating system (OS) and version.
 
-.. image:: Atom_download_image.png
+For example, I'm running MacOS version 10.11.6, so this is what I see when I go to Atom:
+
+.. image:: images/Atom_download_image.png
   :width: 105px
   :align: center
   :height: 146px
 
-2. If the OS/version information is correct for your system, click the **Download** button and follow the installation instructions.
+2. If the OS/version information is correct for your system, click the **Download** button and follow the on-screen instructions to complete the installation.
 
-If the OS/version information is not correct or you want to download Atom for a different operating system:
+If the OS/version information is not correct or you want to download Atom for a different operating system, follow these steps:
 
-#. Click on the **Other platforms** button at the bottom left of the Atom homepage window. You will be taken to Atom's latest version release page on GitHub.
-#. Click on **Assets** to open the list of the current available OS version downloadable files.
+#. On the bottom left of the screen, click **Other platforms**. You will be taken to Atom's latest version release page on GitHub. You can also get there by clicking this link: `https://github.com/atom/ atom/releases/tag/v1.45.0 <https://github.com/atom/ atom/releases/tag/v1.45.0>`_.
+#. Click **Assets** to open the list of the current available OS version downloadable files.
 #. To download, click on the appropriate file name for your platform.
-#. Open the downloaded file and follow the installation instructions.
+#. Open the downloaded file and follow the on-screen installation instructions.

@@ -10,12 +10,13 @@ Welcome to Atom Quick Start's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Atom_project_home
    welcome
    Install_Atom
+   syntax_highlighting
    Install_Packages
    Enable_Syntax_Preview
    Syntax_Comparison
+   About
 
 Indices and tables
 ==================

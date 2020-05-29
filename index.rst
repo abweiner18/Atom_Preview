@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Atom Quick Start's documentation!
+Welcome to Atom for the Beginner's documentation!
 ========================================
 
 .. toctree::
@@ -13,9 +13,10 @@ Welcome to Atom Quick Start's documentation!
    welcome
    Install_Atom
    syntax_highlighting
-   Install_Packages
-   Enable_Syntax_Preview
+   preview
+   atom_packages
    Syntax_Comparison
+   cheatsheets
    About
 
 Indices and tables
