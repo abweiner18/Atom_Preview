@@ -1,5 +1,8 @@
 Welcome
 ===================
+This short guide is for technical writing students and others who have little or no experience writing in a text editor.
+
+Atom is a free, open source text editor developed by GitHub. For Mac users, Atom may be a good alternative to Notepad ++.
 
 Anyone new to reading and writing computer programming source code should use a text editor with beginner-friendly features. The essential features for beginners are syntax highlighting and live preview.
 
