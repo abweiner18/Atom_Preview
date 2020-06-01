@@ -1,12 +1,12 @@
 Install Atom
 ================
-Step-by-step instructions to install Atom on your computer.
+Follow these step-by-step instructions to install Atom on your computer.
 
 #. Go to `https://atom.io <https://atom.io>`_. Above **Download** you should see listed your computer's specific operating system (OS) and version.
 
 For example, I'm running MacOS version 10.11.6, so this is what I see when I go to Atom:
 
-.. image:: images/Atom_download_image.png
+.. image:: Images/Atom_download_image.png
   :width: 105px
   :align: center
   :height: 146px
