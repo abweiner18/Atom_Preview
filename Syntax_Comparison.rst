@@ -1,3 +1,5 @@
+.. _syntax_comparison
+
 Basic Syntax Comparison
 ==========================
 Use this table as a quick reference for HTML, Markdown [#f1]_, and RST.
