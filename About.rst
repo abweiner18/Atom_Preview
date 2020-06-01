@@ -11,6 +11,6 @@ My needs for a text editor are very basic. I only need to:
 
 Installing Atom was easy, but I couldn't figure out how to get syntax highlighting and preview to appear in my documents. It took some time to figure out how to enable those features, so I want to save other beginners time by sharing my learnings here.
 
-I hope this guide gives you the tools to quickly start writing and previewing your work in Atom *(and gives me some practice creating creating a RST/Sphinx/ReadtheDocs project.)*.
+I hope this guide gives you the tools to quickly start writing and previewing your work in Atom *(and gives me some practice creating creating a RST/Sphinx/ReadtheDocs project)*.
 
 -- Anita
