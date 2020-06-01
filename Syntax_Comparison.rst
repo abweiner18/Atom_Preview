@@ -12,7 +12,7 @@ Use this table as a quick reference for HTML, Markdown, and RST.
 
   * - Syntax
     - HTML
-    - Git Flavored Markdown
+    - Markdown (GFM)
     - RST
   * - Headings
     - ``<H1>YourHeading</H1>`` for top level heading. ``<H2>YourHeading</H2>`` for 2nd level heading, and so on through H6.
