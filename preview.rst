@@ -2,7 +2,7 @@ Live Preview
 ===============
 The Live Preview window appears next to your source code. While you type your code, Live Preview shows what your source code will look like on a basic web page.
 
-`Atom must be installed on your computer <Install_Atom.rst>`_ before you can set up additional features.
+`Atom must be installed on your computer </Install_Atom.rst>`_ before you can set up additional features.
 
 A text editor that offers a live preview window saves you time and frustration. One of the main challenges for beginning code writers is not knowing how the code you have written will look on a web page. A "live" preview window renders your code while you write, which is why live preview is an essential tool for the beginning code writer.
 
