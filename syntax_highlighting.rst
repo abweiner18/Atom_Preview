@@ -47,5 +47,5 @@ The file now appears with syntax highlighting.
 
 Related Information:
 
-- `Basic Syntax Comparison Chart <../../Syntax_Comparison>`_
+- ref`syntax_comparison`
 - `Online Syntax Cheatsheets <../cheatsheets.rst>`_
