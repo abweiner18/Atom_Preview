@@ -38,6 +38,10 @@ The package box appears. For example, the image below shows the *atom-html-previ
 
 .. image:: Images/searchpackages.png
 
+
+.. image:: Images/searchpackages.png
+
+
    .. tip::
 
 	There are many different packages that you can install in Atom. To explore the packages, scroll through the available packages listed in **Install Packages** or type in specific search words in the **Search Packages** box. To find out more about what each package does, click on the descriptive text below the title. (You can click on the title also. The information will be the same, but it will launch in atom.io in a new browser window.)
