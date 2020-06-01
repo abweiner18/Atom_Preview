@@ -68,7 +68,7 @@ Preview now appears in a new window on the right side of your screen with your o
 
 .. tip::
 
-  - After the preview window opens, your code file window narrows and the code does not automatically wrap. To enable text wrapping: From the top menu, click View > Toggle Soft Wrap.
+  - After the preview window opens, your code file window narrows and the code does not automatically wrap. To enable text wrapping: From the top menu, click **View > Toggle Soft Wrap**.
   - The Markdown preview window background color can be white or black. This is a toggle command. The white background is "GitHub Style." To change the background color, click **Packages > Markdown Preview > Toggle GitHub Style**.
 
 .. important::
