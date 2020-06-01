@@ -2,20 +2,20 @@ Syntax Highlighting
 =====================
 Syntax highlighting displays source code in different colors and fonts, so it's easier to distinguish code elements and identify errors.
 
-:ref: `Atom must be installed <Install_Atom.rst>`_ on your computer before you can set-up additional features.
+:ref: `Atom must be installed <Install_Atom.rst>`_ on your computer before you can set up additional features.
 
 HTML and Markdown syntax preview come pre-loaded in Atom, but RST does not. You will install the RST syntax highlighting package and then learn how to enable syntax highlighting for all of these languages.
 
-.. image:: images/syntax_png.png
+.. image:: Images/syntax_png.png
 
-Instructions to install the RST Syntax Highlighting package:
+Instructions to install the RST syntax highlighting package:
 
 #. Open **Atom**.
 #. Open **Settings** by clicking on the appropriate path for your operating system.
     - Mac: **Atom > Preferences**
     - Windows: **File > Settings**
 #. On the left menu, click **Install**.
-#. In the Search Packages box, type: ``language-restructedtext``. The language-restructuredtext package box appears. View an image of the `install packages screen <Images/searchpackages.png>`_.
+#. In the Search Packages box, type: ``language-restructuredtext``. The language-restructuredtext package box appears. View an image of the :ref: `install packages screen <Images/searchpackages.png>`_.
 #. Click **Install**.
 
 Instructions to Enable Syntax Highlighting:
