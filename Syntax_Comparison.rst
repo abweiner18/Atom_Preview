@@ -1,10 +1,10 @@
 Basic Syntax Comparison
 ==========================
-Use this table as a quick reference for HTML, Markdown, and RST.
+Use this table as a quick reference for HTML, Markdown [#f1]_, and RST.
 
-.. note::
+.. rubric:: Footnotes
 
-	There are different "flavors" (variations) of Markdown. The syntax used here is for GitHub Flavored Markdown (GFM).
+.. [#f1] There are different "flavors" (variations) of Markdown. The syntax used here is for GitHub Flavored Markdown (GFM).
 
 .. list-table:: **Basic Syntax Comparison**
   :widths: 25 25 25 25
