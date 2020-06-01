@@ -42,7 +42,7 @@ The file now appears with syntax highlighting.
 .. note::
 
 	- After the initial save, the file will always re-open with syntax highlighting.
-	- Any previously saved .htm, .html, .md, or .rst file will open with syntax highlighting.
+	- After installing the packages, any previously saved .htm, .html, .md, or .rst file will open with syntax highlighting.
 	- To "turn off" syntax highlighting for a particular language, you will need to disable the syntax highlighting package for that language. To do that, go to **Atom > Preferences > Packages**. You will see all of your currently installed packages. Find the appropriate package and click **Disable**.
 
 Related Information:
