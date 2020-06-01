@@ -15,6 +15,6 @@ When you download Atom, it comes with a lot of features. For example, Atom comes
 
 .. tip::
 
-	In the **Settings** panel drop-down menu list, you will see **Packages** and **Install**. 
-	    - **Packages** lists what packages are currently installed.
-	    - **Install** lists all additional packages available to install.
+         In the **Settings** panel drop-down menu list, you will see **Packages** and **Install**.
+	     - **Packages** lists what packages are currently installed.
+	     - **Install** lists all additional packages available to install.
