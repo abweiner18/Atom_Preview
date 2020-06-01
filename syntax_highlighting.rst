@@ -8,17 +8,17 @@ HTML and Markdown syntax preview come pre-loaded in Atom, but RST does not. You 
 
 .. image:: Images/syntax_png.png
 
-Instructions to install the RST syntax highlighting package:
+**How to install the RST syntax highlighting package:**
 
 #. Open **Atom**.
 #. Open **Settings** by clicking on the appropriate path for your operating system.
     - Mac: **Atom > Preferences**
     - Windows: **File > Settings**
 #. On the left menu, click **Install**.
-#. In the Search Packages box, type: ``language-restructuredtext``. The language-restructuredtext package box appears. View an image of the :ref: `install packages screen <Images/searchpackages.png>`_.
+#. In the `Search Packages <searchpackages.rst>`_ box, type: ``language-restructuredtext``. The *language-restructuredtext* package box appears.
 #. Click **Install**.
 
-Instructions to Enable Syntax Highlighting:
+**How to Enable Syntax Highlighting:**
 
 #. Open a new file.
 #. Type a few lines of HTML, Markdown, or RST.
@@ -42,10 +42,10 @@ The file now appears with syntax highlighting.
 .. note::
 
 	- After the initial save, the file will always re-open with syntax highlighting.
-  - Any previously saved .htm, .html, .md, or .rst file will open with syntax highlighting.
-  - To "turn off" syntax highlighting for a particular language, you will need to disable the syntax highlighting package for that language. To do that, go to **Atom > Preferences > Packages**. You will see all of your currently installed packages. Find the appropriate package and click **Disable**.
+	- Any previously saved .htm, .html, .md, or .rst file will open with syntax highlighting.
+	- To "turn off" syntax highlighting for a particular language, you will need to disable the syntax highlighting package for that language. To do that, go to **Atom > Preferences > Packages**. You will see all of your currently installed packages. Find the appropriate package and click **Disable**.
 
 Related Information:
 
-- `Basic Syntax Comparison Chart <Syntax_Comparison>`_
-- Online Syntax Cheatsheets
+- `Basic Syntax Comparison Chart <Syntax_Comparison.rst>`_
+- `Online Syntax Cheatsheets <cheatsheets.rst>`_
