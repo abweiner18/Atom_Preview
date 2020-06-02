@@ -17,8 +17,6 @@ When you download Atom, it comes with a lot of features. For example, Atom comes
 
 .. image:: Images/searchpackages.png
 
-.. tip::
-
-         In **Settings**, what's the difference between **Packages** and **Install**?
-	      - **Packages** lists what packages are currently installed.
-	      - **Install** lists all additional packages available to install.
+In **Settings**, what's the difference between **Packages** and **Install**
+    - **Packages** lists what packages are currently installed.
+    - **Install** lists all additional packages available to install.
