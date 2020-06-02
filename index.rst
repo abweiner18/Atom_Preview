@@ -15,8 +15,7 @@ Welcome to Atom Quick Set Up: HTML, Markdown, and RST's documentation!
    syntax_highlighting
    preview
    atom_packages
-   Syntax_Comparison
-   cheatsheets
+   additional_resources
    About
 
 Indices and tables
