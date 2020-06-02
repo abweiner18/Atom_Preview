@@ -1,3 +1,5 @@
+.. _install:
+
 Install Atom
 ================
 Follow these step-by-step instructions to install Atom on your computer.
