@@ -15,7 +15,7 @@ HTML and Markdown syntax preview come pre-loaded in Atom, but RST does not. You 
     - Mac: **Atom > Preferences**
     - Windows: **File > Settings**
 #. On the left menu, click **Install**.
-#. In the `Search Packages </Images/searchpackages.png>`_ box, type: ``language-restructuredtext``. The *language-restructuredtext* package box appears.
+#. In the :ref:`Search Packages <searchpackages>` box, type: ``language-restructuredtext``. The *language-restructuredtext* package box appears.
 #. Click **Install**.
 
 **How to Enable Syntax Highlighting:**
