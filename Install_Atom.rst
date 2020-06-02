@@ -9,6 +9,7 @@ Follow these step-by-step instructions to install Atom on your computer.
 For example, someone running Windows 10 would see the image below when they go to Atom:
 
 .. image:: Images/atom_download_web96dpi.png
+    :align: center
 
 2. If the OS/version information is correct for your system, click the **Download** button and follow the on-screen instructions to complete the installation.
 
