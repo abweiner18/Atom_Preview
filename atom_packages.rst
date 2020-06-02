@@ -10,8 +10,7 @@ When you download Atom, it comes with a lot of features. For example, Atom comes
 * Install a package anytime.
 * Disable a package anytime.
 * Access packages from the **Settings** panel. To access **Settings**, follow the appropriate path for your operating system:
-    - Mac: **Atom > Preferences**
-    - Windows: **File > Settings**
+    - Mac: **Atom > Preferences**; Windows: **File > Settings**
     - **Packages** lists what packages are currently installed.
     - **Install** lists all additional packages available to install.
 
