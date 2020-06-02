@@ -25,9 +25,9 @@ HTML and Markdown syntax preview come pre-loaded in Atom, but RST does not. You 
 #. Save the file using the appropriate language file extension from the table below.
 
 .. list-table::
-   :widths: 20 50
-   :align: center
-   :header-rows: 1
+    :widths: 20 50
+    :header-rows: 1
+    :align: center
   
 
   * - Language
