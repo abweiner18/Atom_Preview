@@ -12,11 +12,11 @@ When you download Atom, it comes with a lot of features. For example, Atom comes
 * Access packages from the **Settings** panel. To access **Settings**, follow the appropriate path for your operating system:
     - Mac: **Atom > Preferences**
     - Windows: **File > Settings**
+    - **Packages** lists what packages are currently installed.
+    - **Install** lists all additional packages available to install.
+
+Below is an example image of the **Search Packages** box.
 
 .. _searchpackages:
 
 .. image:: Images/searchpackages.png
-
-In **Settings**, what's the difference between **Packages** and **Install**
-    - **Packages** lists what packages are currently installed.
-    - **Install** lists all additional packages available to install.
