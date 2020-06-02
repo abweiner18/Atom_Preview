@@ -1,3 +1,5 @@
+.. _cheatsheets:
+
 Online Cheatsheets
 =====================
 There are a lot of online cheatsheets available. Below are links to just a few. Do your own searches to find the sites/cheatsheets that work best for you.
