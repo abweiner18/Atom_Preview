@@ -48,4 +48,3 @@ The file now appears with syntax highlighting.
 Related Information:
 
 :ref:`syntax_comparison`
-- `Online Syntax Cheatsheets <../cheatsheets.rst>`_
