@@ -27,6 +27,7 @@ HTML and Markdown syntax preview come pre-loaded in Atom, but RST does not. You 
 .. list-table::
   :widths: 20 50
   :header-rows: 1
+  :align: center
 
   * - Language
     - File Extension
