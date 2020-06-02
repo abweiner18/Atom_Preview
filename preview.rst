@@ -2,7 +2,7 @@ Live Preview
 ===============
 The Live Preview window appears next to your source code. While you type your code, Live Preview shows what your source code will look like on a basic web page.
 
-`Atom must be installed on your computer </Install_Atom.rst>`_ before you can set up additional features.
+:ref:`Atom must be installed on your computer <install>` before you can set up additional features.
 
 A text editor that offers a live preview window saves you time and frustration. One of the main challenges for beginning code writers is not knowing how the code you have written will look on a web page. A "live" preview window renders your code while you write, which is why live preview is an essential tool for the beginning code writer.
 
@@ -15,7 +15,7 @@ A text editor that offers a live preview window saves you time and frustration. 
       - Mac: **Atom > Preferences**
       - Windows: **File > Settings**
 #. On the left menu, click **Install**.
-#. In the **Search Packages** box, type the package name you want to install from the table below.
+#. In the :ref:`Search Packages <searchpackages>` box, type the package name you want to install from the table below.
 
 .. list-table::
   :widths: 20 50
@@ -29,13 +29,6 @@ A text editor that offers a live preview window saves you time and frustration. 
     - (none; already pre-loaded in Atom)
   * - RST
     - ``rst-preview``
-
-The package box appears. For example, the image below shows the *atom-html-preview* package box.
-
-.. image:: Images/searchpackages.png
-
-
-.. image:: Images/searchpackages.png
 
 
    .. tip::
