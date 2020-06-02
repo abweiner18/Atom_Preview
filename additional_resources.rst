@@ -2,7 +2,7 @@ Additional Resources
 ==========================
 Find a HTML, Markdown, and RST comparison chart and links to online cheatsheets here.
 
-.. _syntax_comparison:
+.. _additional_resources_syntax_comparison:
 
 Basic Syntax Comparison Chart
 *********************************
@@ -54,7 +54,7 @@ Use this table as a quick reference for HTML, Markdown [#f1]_, and RST.
     - ```link name <url>`_``
 
 
-.. _cheatsheets:
+.. _additional_resources_cheatsheets:
 
 Online Cheatsheets
 *********************
