@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Atom for the Beginner's documentation!
+Welcome to Atom Quick Set Up: HTML, Markdown, and RST's documentation!
 ========================================
 
 .. toctree::
