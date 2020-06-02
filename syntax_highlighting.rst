@@ -39,7 +39,7 @@ HTML and Markdown syntax preview come pre-loaded in Atom, but RST does not. You 
   * - RST
     - filename.rst
 
-The file now appears with syntax highlighting.
+Result: The file now appears with syntax highlighting.
 
 .. note::
 
