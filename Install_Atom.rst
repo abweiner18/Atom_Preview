@@ -6,7 +6,7 @@ Follow these step-by-step instructions to install Atom on your computer.
 
 #. Go to `https://atom.io <https://atom.io>`_. Above **Download** you should see listed your computer's specific operating system (OS) and version.
 
-For example, I'm running Windows 10 on a pc, so this is what I see when I go to Atom:
+For example, someone with a pc running Windows 10 would see this when they go to Atom:
 
 .. image:: Images/atom_download_web96dpi.png
 
