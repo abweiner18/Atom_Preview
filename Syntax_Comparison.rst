@@ -43,7 +43,7 @@ Use this table as a quick reference for HTML, Markdown [#f1]_, and RST.
   * - Image
     - ``<image src="source path" alt text= "alt text">``
     - ``![alt text](path)``
-    - ``.. image:: path``
+    - ``.. image:: image path``
   * - Link
     - ``<a href="url">link text</a>``
     - ``[In-line text name] (url)``
