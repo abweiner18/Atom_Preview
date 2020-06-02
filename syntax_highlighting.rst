@@ -49,6 +49,6 @@ Result: The file now appears with syntax highlighting.
 
 Related Information:
 
-:ref:`additional_resources/syntax_comparison`
+:ref:`additional_resources_syntax_comparison`
 
-:ref:`additional_resources/cheatsheets`
+:ref:`additional_resources_cheatsheets`
